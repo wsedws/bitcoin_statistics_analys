@@ -1,0 +1,84 @@
+2024-06-21 16:24:47,361 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 16:24:47,361 [33mPress CTRL+C to quit[0m
+2024-06-21 16:24:47,362  * Restarting with stat
+2024-06-21 16:24:48,111  * Debugger is active!
+2024-06-21 16:24:48,115  * Debugger PIN: 558-388-318
+2024-06-21 16:25:48,174 127.0.0.1 - - [21/Jun/2024 16:25:48] "GET / HTTP/1.1" 200 -
+2024-06-21 16:27:23,617 127.0.0.1 - - [21/Jun/2024 16:27:23] "GET / HTTP/1.1" 200 -
+2024-06-21 16:28:27,115 127.0.0.1 - - [21/Jun/2024 16:28:27] "GET / HTTP/1.1" 200 -
+2024-06-21 16:29:53,071  * Detected change in 'F:\\ÐéÄâ»õ±Ò·¸×ïÔ¤¾¯\\statistics\\web\\app.py', reloading
+2024-06-21 16:29:53,166  * Restarting with stat
+2024-06-21 16:29:54,123  * Debugger is active!
+2024-06-21 16:29:54,126  * Debugger PIN: 558-388-318
+2024-06-21 16:30:13,270 127.0.0.1 - - [21/Jun/2024 16:30:13] "GET / HTTP/1.1" 200 -
+2024-06-21 16:30:31,707 127.0.0.1 - - [21/Jun/2024 16:30:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-06-21 16:30:31,722 127.0.0.1 - - [21/Jun/2024 16:30:31] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-21 16:30:31,723 127.0.0.1 - - [21/Jun/2024 16:30:31] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-21 16:30:31,730 127.0.0.1 - - [21/Jun/2024 16:30:31] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-21 16:30:31,778 127.0.0.1 - - [21/Jun/2024 16:30:31] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-21 16:30:46,385 127.0.0.1 - - [21/Jun/2024 16:30:46] "POST /upload HTTP/1.1" 200 -
+2024-06-21 16:30:54,741 127.0.0.1 - - [21/Jun/2024 16:30:54] "POST /upload HTTP/1.1" 200 -
+2024-06-21 16:36:33,946  * Detected change in 'F:\\ÐéÄâ»õ±Ò·¸×ïÔ¤¾¯\\statistics\\web\\app.py', reloading
+2024-06-21 16:36:34,037  * Restarting with stat
+2024-06-21 16:36:34,991  * Debugger is active!
+2024-06-21 16:36:34,995  * Debugger PIN: 558-388-318
+2024-06-21 16:37:36,740 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 16:37:36,740 [33mPress CTRL+C to quit[0m
+2024-06-21 16:37:36,742  * Restarting with stat
+2024-06-21 16:37:37,491  * Debugger is active!
+2024-06-21 16:37:37,495  * Debugger PIN: 558-388-318
+2024-06-21 16:37:53,156 127.0.0.1 - - [21/Jun/2024 16:37:53] "GET / HTTP/1.1" 200 -
+2024-06-21 16:38:04,690 127.0.0.1 - - [21/Jun/2024 16:38:04] "POST /upload HTTP/1.1" 200 -
+2024-06-21 16:38:13,317 127.0.0.1 - - [21/Jun/2024 16:38:13] "GET /download/top_20_addresses.csv HTTP/1.1" 200 -
+2024-06-21 16:38:17,606 127.0.0.1 - - [21/Jun/2024 16:38:17] "GET /download/ransomware_family_statistics.xlsx HTTP/1.1" 200 -
+2024-06-21 16:38:34,174 127.0.0.1 - - [21/Jun/2024 16:38:34] "GET /download/hacker_email_statistics.xlsx HTTP/1.1" 200 -
+2024-06-21 16:41:25,901  * Detected change in 'F:\\ÐéÄâ»õ±Ò·¸×ïÔ¤¾¯\\statistics\\web\\app.py', reloading
+2024-06-21 16:41:25,992  * Restarting with stat
+2024-06-21 16:41:26,998  * Debugger is active!
+2024-06-21 16:41:27,003  * Debugger PIN: 558-388-318
+2024-06-21 16:41:54,306 127.0.0.1 - - [21/Jun/2024 16:41:54] "GET / HTTP/1.1" 200 -
+2024-06-21 16:42:07,093 127.0.0.1 - - [21/Jun/2024 16:42:07] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-06-21 16:42:07,108 127.0.0.1 - - [21/Jun/2024 16:42:07] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-21 16:42:07,110 127.0.0.1 - - [21/Jun/2024 16:42:07] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-21 16:42:07,146 127.0.0.1 - - [21/Jun/2024 16:42:07] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-21 16:42:07,191 127.0.0.1 - - [21/Jun/2024 16:42:07] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-21 16:42:20,684 127.0.0.1 - - [21/Jun/2024 16:42:20] "POST /upload HTTP/1.1" 200 -
+2024-06-21 16:43:11,908 127.0.0.1 - - [21/Jun/2024 16:43:11] "GET /download/ransomware_family_statistics.xlsx HTTP/1.1" 200 -
+2024-06-21 16:43:23,814 127.0.0.1 - - [21/Jun/2024 16:43:23] "GET /download/hacker_email_statistics.xlsx HTTP/1.1" 200 -
+2024-06-21 16:43:35,742 127.0.0.1 - - [21/Jun/2024 16:43:35] "GET /download/address_counts_by_currency.csv HTTP/1.1" 200 -
+2024-06-21 16:43:41,735 127.0.0.1 - - [21/Jun/2024 16:43:41] "GET /download/top_20_addresses.csv HTTP/1.1" 200 -
+2024-06-21 16:43:54,665 127.0.0.1 - - [21/Jun/2024 16:43:54] "GET /download/monthly_totals.csv HTTP/1.1" 200 -
+2024-06-21 16:44:52,993 127.0.0.1 - - [21/Jun/2024 16:44:52] "POST /upload HTTP/1.1" 200 -
+2024-06-21 16:45:02,088 127.0.0.1 - - [21/Jun/2024 16:45:02] "GET /download/address_counts_by_currency.csv HTTP/1.1" 200 -
+2024-06-21 16:45:24,716 127.0.0.1 - - [21/Jun/2024 16:45:24] "GET /download/monthly_totals.csv HTTP/1.1" 200 -
+2024-06-21 16:47:59,922 127.0.0.1 - - [21/Jun/2024 16:47:59] "POST /upload HTTP/1.1" 200 -
+2024-06-21 16:55:12,032 127.0.0.1 - - [21/Jun/2024 16:55:12] "GET / HTTP/1.1" 200 -
+2024-06-21 16:56:52,679 127.0.0.1 - - [21/Jun/2024 16:56:52] "GET / HTTP/1.1" 200 -
+2024-06-21 16:59:13,877 127.0.0.1 - - [21/Jun/2024 16:59:13] "GET / HTTP/1.1" 200 -
+2024-06-21 17:00:48,979 127.0.0.1 - - [21/Jun/2024 17:00:48] "GET / HTTP/1.1" 200 -
+2024-06-21 17:01:01,205 127.0.0.1 - - [21/Jun/2024 17:01:01] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-06-21 17:01:01,221 127.0.0.1 - - [21/Jun/2024 17:01:01] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-21 17:01:01,222 127.0.0.1 - - [21/Jun/2024 17:01:01] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-21 17:01:01,244 127.0.0.1 - - [21/Jun/2024 17:01:01] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-21 17:01:01,289 127.0.0.1 - - [21/Jun/2024 17:01:01] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-21 17:01:49,975 127.0.0.1 - - [21/Jun/2024 17:01:49] "POST /upload HTTP/1.1" 200 -
+2024-06-21 17:10:22,435  * Detected change in 'F:\\ÐéÄâ»õ±Ò·¸×ïÔ¤¾¯\\statistics\\web\\app.py', reloading
+2024-06-21 17:10:22,513  * Restarting with stat
+2024-06-21 17:10:23,336  * Debugger is active!
+2024-06-21 17:10:23,341  * Debugger PIN: 558-388-318
+2024-06-21 17:10:26,260 127.0.0.1 - - [21/Jun/2024 17:10:26] "GET / HTTP/1.1" 200 -
+2024-06-21 17:10:28,963 127.0.0.1 - - [21/Jun/2024 17:10:28] "GET /upload HTTP/1.1" 200 -
+2024-06-21 17:10:37,144 127.0.0.1 - - [21/Jun/2024 17:10:37] "GET /upload HTTP/1.1" 200 -
+2024-06-21 17:11:26,702 127.0.0.1 - - [21/Jun/2024 17:11:26] "[32mPOST /upload HTTP/1.1[0m" 302 -
+2024-06-21 17:11:26,708 127.0.0.1 - - [21/Jun/2024 17:11:26] "GET /results HTTP/1.1" 200 -
+2024-06-21 17:11:31,788 127.0.0.1 - - [21/Jun/2024 17:11:31] "GET /upload HTTP/1.1" 200 -
+2024-06-21 17:11:33,492 127.0.0.1 - - [21/Jun/2024 17:11:33] "GET /results HTTP/1.1" 200 -
+2024-06-21 17:20:41,758  * Detected change in 'F:\\ÐéÄâ»õ±Ò·¸×ïÔ¤¾¯\\statistics\\web\\app.py', reloading
+2024-06-21 17:20:41,839  * Restarting with stat
+2024-06-21 17:20:42,693  * Debugger is active!
+2024-06-21 17:20:42,697  * Debugger PIN: 558-388-318
+2024-06-21 17:20:58,312 127.0.0.1 - - [21/Jun/2024 17:20:58] "GET /upload HTTP/1.1" 200 -
+2024-06-21 17:21:50,968 127.0.0.1 - - [21/Jun/2024 17:21:50] "[32mPOST /upload HTTP/1.1[0m" 302 -
+2024-06-21 17:21:50,973 127.0.0.1 - - [21/Jun/2024 17:21:50] "GET /upload HTTP/1.1" 200 -
